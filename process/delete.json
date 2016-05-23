@@ -1,0 +1,92 @@
+{
+	"_id": {
+		"$oid": "518f8f42c715dd519a9fcd05"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "Delete Process - [Name]",
+			"T33512": null
+		},
+		"T33531": {
+			"T33539": {
+				"id": 322,
+				"name": "Repeatable",
+				"type": 2
+			},
+			"T33540": "v1.0"
+		},
+		"T33571": {
+			"T33572": "This process is formal process to delete Process"
+		}
+	},
+	"T33580": {
+		"T33581": {
+			"T33582": [
+				{
+					"T33583": {
+						"bindType": 33027,
+						"dataType": 33000,
+						"multiValue": true
+					},
+					"T33584": {
+						"items": [
+							{
+								"checked": true,
+								"path": "33000"
+							}
+						]
+					}
+				}
+			]
+		},
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51101,
+						"link": {
+							"type": 33029,
+							"rid": 0,
+							"path": "33000"
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51101"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33028,
+						"dataType": 33513,
+						"link": {
+							"type": 33029,
+							"rid": 0,
+							"path": "33001.33510.33511.33513"
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "33513"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 92,
+	"legal": {
+		"$numberLong": "1"
+	}
+}

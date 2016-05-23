@@ -1,0 +1,87 @@
+{
+	"_id": {
+		"$oid": "518f8d18c715dd519a9fccfd"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "New Process - [Name]",
+			"T33512": null
+		},
+		"T33531": {
+			"T33539": {
+				"id": 321,
+				"name": "Initial",
+				"type": 2
+			},
+			"T33540": "v1.0"
+		},
+		"T33571": {
+			"T33572": "<p>This process is formal process to create a new Process</p><p>There is no auditing efforts specified in this process</p>"
+		}
+	},
+	"T33580": {
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33026,
+						"dataType": 33000
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "33000"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"type": 33030,
+							"rid": 0,
+							"path": "33000"
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33028,
+						"dataType": 33513,
+						"link": {
+							"type": 33030,
+							"rid": 0,
+							"path": "33001.33510.33511.33513"
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "33513"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 1295,
+	"legal": {
+		"$numberLong": "1"
+	}
+}
