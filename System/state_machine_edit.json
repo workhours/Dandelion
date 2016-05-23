@@ -1,0 +1,57 @@
+{
+	"_id": {
+		"$oid": "553ce168c5ed28f9e690acc4"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "Edit State Machine",
+			"T33512": null
+		}
+	},
+	"T33580": {
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 39000
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "39000"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"type": 33030,
+							"path": "39000",
+							"rid": 0
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 4,
+	"legal": {
+		"$numberLong": "1"
+	}
+}

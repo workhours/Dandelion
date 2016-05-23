@@ -1,0 +1,46 @@
+{
+	"_id": {
+		"$oid": "53b8c85d70e38b5aa113d119"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "View User",
+			"T33512": null
+		},
+		"T33571": {
+			"T33572": "view full information"
+		}
+	},
+	"T33580": {
+		"T33581": {
+			"T33582": [
+				{
+					"T33583": {
+						"bindType": 33027,
+						"dataType": 51550,
+						"condition": {
+							"rule": [
+								"this.user"
+							]
+						}
+					},
+					"T33584": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51550"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 14,
+	"legal": {
+		"$numberLong": "1"
+	}
+}

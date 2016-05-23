@@ -1,0 +1,68 @@
+{
+	"_id": {
+		"$oid": "51e2a7972237a1c98323d347"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "New Task",
+			"T33512": null
+		},
+		"T33571": {
+			"T33572": "<p>create new task by:</p><p><ul><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">subject</span></li><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">responsible</span></li><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">informed</span></li><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">description</span><br></li></ul></p>"
+		}
+	},
+	"T33580": {
+		"T33581": {
+			"T33582": [
+				{
+					"T33583": {
+						"bindType": 33026,
+						"dataType": 33001
+					},
+					"T33584": {
+						"items": [
+							{
+								"name": "Subject",
+								"checked": true,
+								"path": "33513.33511.33510.33001"
+							},
+							{
+								"checked": true,
+								"path": "33517.33511.33510.33001"
+							},
+							{
+								"checked": true,
+								"optional": true,
+								"path": "33536.33531.33510.33001"
+							},
+							{
+								"checked": true,
+								"path": "33571.33510.33001"
+							}
+						]
+					}
+				},
+				{
+					"T33583": {
+						"bindType": 33028,
+						"refItem": {
+							"level": 1
+						},
+						"link": {
+							"type": 33029,
+							"path": "*33513,33517,33536,33571",
+							"rid": 0
+						}
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 308,
+	"legal": {
+		"$numberLong": "1"
+	}
+}

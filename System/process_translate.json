@@ -1,0 +1,57 @@
+{
+	"_id": {
+		"$oid": "568cfde4c5edde9d8f6e7f44"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "Translate Process",
+			"T33512": null
+		}
+	},
+	"T33580": {
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33033,
+						"dataType": 33000
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "33000"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"type": 33030,
+							"path": "33001.33000",
+							"rid": 0
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 7,
+	"legal": {
+		"$numberLong": "1"
+	}
+}

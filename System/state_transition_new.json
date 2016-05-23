@@ -1,0 +1,57 @@
+{
+	"_id": {
+		"$oid": "54fee514c5ed555623fd7ba6"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "New State Transition",
+			"T33512": null
+		}
+	},
+	"T33580": {
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33026,
+						"dataType": 39050
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "39050"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"type": 33030,
+							"path": "39050",
+							"rid": 0
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 2,
+	"legal": {
+		"$numberLong": "1"
+	}
+}

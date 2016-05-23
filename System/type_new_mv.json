@@ -1,0 +1,63 @@
+{
+	"_id": {
+		"$oid": "52c03caa2237a38522819916"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "New Types",
+			"T33512": null
+		}
+	},
+	"T33580": {
+		"T33581": {
+			"T33582": [
+				null
+			]
+		},
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33026,
+						"dataType": 51500,
+						"multiValue": true
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51500"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"type": 33030,
+							"rid": 0,
+							"path": "51500"
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 29,
+	"legal": {
+		"$numberLong": "1"
+	}
+}

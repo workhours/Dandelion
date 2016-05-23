@@ -1,0 +1,76 @@
+{
+	"_id": {
+		"$oid": "54faa751c5edfbb643d8628b"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "New State Machine - [Name]",
+			"T33512": null
+		}
+	},
+	"T33580": {
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33026,
+						"dataType": 39000
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "39000"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"type": 33030,
+							"path": "39000",
+							"rid": 0
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33028,
+						"dataType": 33513,
+						"link": {
+							"type": 33030,
+							"path": "39000.39002",
+							"rid": 0
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "33513"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 6,
+	"legal": {
+		"$numberLong": "1"
+	}
+}

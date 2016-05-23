@@ -1,0 +1,58 @@
+{
+	"_id": {
+		"$oid": "531bf1702237bb1c32e4cba4"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "Edit Types",
+			"T33512": null
+		}
+	},
+	"T33580": {
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51500,
+						"multiValue": true
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51500"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"type": 33030,
+							"rid": 0,
+							"path": "51500"
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 17,
+	"legal": {
+		"$numberLong": "1"
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"_id": {
+		"$oid": "531dce6f22375d93cdc2a525"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "View Types",
+			"T33512": null
+		}
+	},
+	"T33580": {
+		"T33581": {
+			"T33582": [
+				{
+					"T33583": {
+						"bindType": 33027,
+						"dataType": 51500,
+						"multiValue": true
+					},
+					"T33584": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51500"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 6,
+	"legal": {
+		"$numberLong": "1"
+	}
+}

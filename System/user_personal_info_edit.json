@@ -1,0 +1,67 @@
+{
+	"_id": {
+		"$oid": "53bbf7b770e368e144aefd57"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "Edit User Personal Information",
+			"T33512": null
+		}
+	},
+	"T33580": {
+		"T33581": {
+			"T33582": [
+				
+			]
+		},
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51550,
+						"condition": {
+							"rule": [
+								"this.user"
+							]
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51562.51550"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"type": 33030,
+							"rid": 0,
+							"path": "51550"
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 13,
+	"legal": {
+		"$numberLong": "1"
+	}
+}
