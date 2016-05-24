@@ -1,0 +1,118 @@
+{
+	"_id": {
+		"$oid": "54ffe9cd0f3c364f7dd54ab0"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "New Plan - [Name]",
+			"T33512": null
+		}
+	},
+	"T33580": {
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33026,
+						"dataType": 14500
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "14500"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"type": 33030,
+							"path": "14500",
+							"rid": 0
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 39000,
+						"condition": {
+							"id": "573d79318fd75e6de6141411",
+							"name": "Plan State Machine"
+						},
+						"link": {
+							"type": 33030,
+							"path": "14500",
+							"rid": 0
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "39000"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33028,
+						"dataType": 33534,
+						"link": {
+							"type": 33030,
+							"path": "39000",
+							"rid": 2
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "33534"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33028,
+						"dataType": 33513,
+						"link": {
+							"type": 33030,
+							"path": "14500.14502",
+							"rid": 0
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "33513"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"activities": [
+		
+	],
+	"hits": 53,
+	"legal": {
+		"$numberLong": "1"
+	}
+}
