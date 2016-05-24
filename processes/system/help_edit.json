@@ -1,0 +1,77 @@
+{
+	"_id": {
+		"$oid": "56b0641883c9ff818886904b"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": "Edit Help - [title]",
+			"T33512": null
+		}
+	},
+	"T33580": {
+		"T33600": {
+			"T33601": [
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 31100
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "31100"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33028,
+						"dataType": 33513,
+						"link": {
+							"type": 33030,
+							"path": "31000.31002",
+							"rid": 0
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"name": "title",
+								"checked": true,
+								"path": "33513"
+							}
+						]
+					}
+				},
+				{
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"type": 33030,
+							"path": "31100",
+							"rid": 0
+						}
+					},
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+	"legal": {
+		"$numberLong": "1"
+	},
+	"activities": [
+		
+	],
+	"hits": 160
+}
