@@ -1,0 +1,89 @@
+{
+	"_id": {
+		"$oid": "56c71b2991f3ac04f646adf8"
+	},
+	"T39002": "Task Full State Machine",
+	"T39004": [
+		{
+			"id": {
+				"$numberLong": "221"
+			},
+			"name": "Abandon"
+		},
+		{
+			"id": {
+				"$numberLong": "222"
+			},
+			"name": "Abandon"
+		},
+		{
+			"id": {
+				"$numberLong": "133"
+			},
+			"name": "Accept"
+		},
+		{
+			"id": {
+				"$numberLong": "502"
+			},
+			"name": "Activate"
+		},
+		{
+			"id": {
+				"$numberLong": "213"
+			},
+			"name": "Agree"
+		},
+		{
+			"id": {
+				"$numberLong": "214"
+			},
+			"name": "Agree"
+		},
+		{
+			"id": {
+				"$numberLong": "217"
+			},
+			"name": "Approve"
+		},
+		{
+			"id": {
+				"$numberLong": "218"
+			},
+			"name": "Approve"
+		},
+		{
+			"id": {
+				"$numberLong": "130"
+			},
+			"name": "Assign"
+		},
+		{
+			"id": {
+				"$numberLong": "136"
+			},
+			"name": "Assign"
+		},
+		{
+			"id": {
+				"$numberLong": "143"
+			},
+			"name": "Cancel"
+		},
+		{
+			"id": {
+				"$numberLong": "219"
+			},
+			"name": "Denny"
+		},
+		{
+			"id": {
+				"$numberLong": "503"
+			},
+			"name": "Deprecate"
+		}
+	],
+	"legal": {
+		"$numberLong": "1"
+	}
+}

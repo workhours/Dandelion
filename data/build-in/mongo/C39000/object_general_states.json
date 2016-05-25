@@ -1,0 +1,28 @@
+{
+	"_id": {
+		"$oid": "56efa5acbca6ac39c9d1717b"
+	},
+	"T39002": "Object General State Machine",
+	"T39004": [
+		{
+			"id": 502,
+			"name": "Activate"
+		},
+		{
+			"id": 503,
+			"name": "Deprecate"
+		},
+		{
+			"id": 504,
+			"name": "Discard"
+		},
+		{
+			"id": 505,
+			"name": "Archive"
+		}
+	],
+	"T39009": "用于对象状态转换",
+	"legal": {
+		"$numberLong": "1"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"_id": {
+		"$oid": "573d79318fd75e6de6141411"
+	},
+	"T39002": "Plan State Machine",
+	"T39004": [
+		{
+			"id": 501,
+			"name": "Initiate"
+		},
+		{
+			"id": 502,
+			"name": "Activate"
+		},
+		{
+			"id": 503,
+			"name": "Deprecate"
+		},
+		{
+			"id": 504,
+			"name": "Discard"
+		},
+		{
+			"id": 505,
+			"name": "Archive"
+		},
+		{
+			"id": 1450,
+			"name": "Update"
+		}
+	],
+	"legal": {
+		"$numberLong": "1"
+	}
+}
