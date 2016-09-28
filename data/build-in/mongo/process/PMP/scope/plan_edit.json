@@ -71,9 +71,6 @@
 			]
 		}
 	},
-	"legal": {
-		"$numberLong": "1"
-	},
 	"activities": [
 		
 	],

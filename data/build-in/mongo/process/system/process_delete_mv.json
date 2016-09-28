@@ -85,8 +85,5 @@
 	"activities": [
 		
 	],
-	"hits": 92,
-	"legal": {
-		"$numberLong": "1"
-	}
+	"hits": 92
 }
