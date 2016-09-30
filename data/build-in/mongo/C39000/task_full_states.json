@@ -82,8 +82,5 @@
 			},
 			"name": "Deprecate"
 		}
-	],
-	"legal": {
-		"$numberLong": "1"
-	}
+	]
 }

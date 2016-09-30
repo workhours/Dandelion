@@ -28,8 +28,5 @@
 			"id": 1450,
 			"name": "Update"
 		}
-	],
-	"legal": {
-		"$numberLong": "1"
-	}
+	]
 }
