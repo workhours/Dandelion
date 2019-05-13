@@ -2,8 +2,8 @@
 	"_id": {
 		"$oid": "56efa5acbca6ac39c9d1717b"
 	},
-	"T39002": "Object General State Machine",
-	"T39004": [
+	"T10002": "Object General State Machine",
+	"T10004": [
 		{
 			"id": 502,
 			"name": "Activate"
