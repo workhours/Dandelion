@@ -5,81 +5,55 @@
 	"T10002": "Task Full State Machine",
 	"T39004": [
 		{
-			"id": {
-				"$numberLong": "221"
-			},
+			"id": 221,
 			"name": "Abandon"
 		},
 		{
-			"id": {
-				"$numberLong": "222"
-			},
+			"id": 222,
 			"name": "Abandon"
 		},
 		{
-			"id": {
-				"$numberLong": "133"
-			},
+			"id": 133,
 			"name": "Accept"
 		},
 		{
-			"id": {
-				"$numberLong": "502"
-			},
+			"id": 502,
 			"name": "Activate"
 		},
 		{
-			"id": {
-				"$numberLong": "213"
-			},
+			"id":213,
 			"name": "Agree"
 		},
 		{
-			"id": {
-				"$numberLong": "214"
-			},
+			"id":214,
 			"name": "Agree"
 		},
 		{
-			"id": {
-				"$numberLong": "217"
-			},
+			"id":217,
 			"name": "Approve"
 		},
 		{
-			"id": {
-				"$numberLong": "218"
-			},
+			"id": 218,
 			"name": "Approve"
 		},
 		{
-			"id": {
-				"$numberLong": "130"
-			},
+			"id": 130,
 			"name": "Assign"
 		},
 		{
-			"id": {
-				"$numberLong": "136"
-			},
+			"id": 136,
 			"name": "Assign"
 		},
 		{
-			"id": {
-				"$numberLong": "143"
-			},
+			"id": 143,
 			"name": "Cancel"
 		},
 		{
-			"id": {
-				"$numberLong": "219"
-			},
+			"id":219,
 			"name": "Denny"
 		},
 		{
-			"id": {
-				"$numberLong": "503"
-			},
+			"id": 503,
 			"name": "Deprecate"
 		}
 	]
