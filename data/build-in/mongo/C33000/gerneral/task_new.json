@@ -45,6 +45,7 @@
 				{
 					"T33583": {
 						"bindType": 33028,
+						"dataType": 33001,
 						"refItem": {
 							"level": 1
 						},
