@@ -58,8 +58,10 @@
 						"link": {
 							"type": 33030,
 							"rid": 0,
+							 "level": 4,
 							"path": "33001.33510.33511.33513"
-						}
+						},
+						"func": "linked.stream().map(function(v){return v[0]}).collect(Java.join)"
 					},
 					"T33603": {
 						"items": [
