@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "Translate Processes",
+			"T33513": {
+				"en": "Translate Processes in batch",
+				"zh": "批量翻译流程",
+				"zh_TW": "批量翻譯流程",
+				"fr": "Processus de conversion par lots",
+				"es": "Proceso de conversión por lotes",
+				"ar": "دفعة عملية التحويل"
+			},
 			"T33512": null
 		}
 	},

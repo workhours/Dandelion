@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "New Types",
+			"T33513": {
+				"en": "New Types in batch",
+				"zh": "批量新建类型",
+				"zh_TW": "批量新建類型",
+				"fr": "Type d'ajout par lots",
+				"es": "Nuevo tipo de lote",
+				"ar": "دفعة جديدة من نوع"
+			},
 			"T33512": null
 		}
 	},

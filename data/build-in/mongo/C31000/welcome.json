@@ -2,6 +2,13 @@
 	"_id": {
 		"$oid": "622d527ca5210050c0b236a2"
 	},
-	"T31002": "欢迎使用工时系统",
-	"T31003": "<p>首次注册的用户可以选择执行以下任务之一：</p><p><ul><li>完善用户资料（比如用户姓名）。可以通过<a href=\"T33000/53bbf7b770e368e144aefd57\" class=\"object\">Edit User Personal Information</a>​流程来完成。</li><li>注册自己的企业。</li><li>注册自己所在的企业。</li></ul></p>"
+	"T31002": {
+		"en": "Welcome to Workhour System",
+		"zh": "欢迎使用工时系统",
+		"zh_TW": "歡迎使用工時系統",
+		"fr": "Bienvenue au système des Workhour",
+		"es": "Bienvenido al sistema de Workhour",
+		"ar": "مرحبا بكم في نظام ساعات العمل"
+	},
+	"T31003": "<p>首次注册的用户可以选择执行以下任务之一：</p><p><ul><li>完善用户资料（比如用户姓名）。可以通过<a href=\"T33000/53bbf7b770e368e144aefd57\" class=\"object\">Edit User Personal Information</a>流程来完成。</li><li>注册自己的企业。</li><li>注册自己所在的企业。</li></ul></p>"
 }

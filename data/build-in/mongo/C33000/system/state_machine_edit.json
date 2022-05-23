@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "Edit State Machine",
+			"T33513": {
+				"en": "Edit State Machine",
+				"zh": "编辑状态机",
+				"zh_TW": "編輯狀態機",
+				"fr": "Modifier la machine d'état",
+				"es": "Editar máquina de Estado",
+				"ar": "تحرير آلة الدولة"
+			},
 			"T33512": null
 		}
 	},

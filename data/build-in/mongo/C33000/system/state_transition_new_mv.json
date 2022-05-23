@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "New State Transitions",
+			"T33513": {
+				"en": "New State Transitions in batch",
+				"zh": "批量新建状态迁移",
+				"zh_TW": "批量新建狀態遷移",
+				"fr": "Nouvelle transition d'état dans le lot",
+				"es": "Nueva transición de Estado en el procesamiento por lotes",
+				"ar": "الدولة الجديدة في تحويل دفعة"
+			},
 			"T33512": null
 		}
 	},

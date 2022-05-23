@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "Delete Process - [Name]",
+			"T33513": {
+				"en": "Delete Processes in batch - [Name]",
+				"zh": "批量删除流程 - [名称]",
+				"zh_TW": "批量删除流程 - [名稱]",
+				"fr": "Processus de suppression par lots - [nom]",
+				"es": "Proceso de eliminación por lotes - [Nombre]",
+				"ar": "عملية حذف دفعة - [الاسم]"
+			},
 			"T33512": null
 		},
 		"T33531": {

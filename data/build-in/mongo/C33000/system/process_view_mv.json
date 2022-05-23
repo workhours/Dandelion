@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "View Process - [Name]",
+			"T33513": {
+				"en": "View Processes in batch - [Name]",
+				"zh": "批量查看流程 - [名称]",
+				"zh_TW": "批量查看流程 - [名稱]",
+				"fr": "Processus de visualisation par lots - [nom]",
+				"es": "Proceso de visualización por lotes - [Nombre]",
+				"ar": "دفعة عرض تدفق - [الاسم]"
+			},
 			"T33512": null
 		},
 		"T33531": {

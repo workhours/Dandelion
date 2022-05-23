@@ -2,7 +2,14 @@
   "_id" : {"$oid": "622d4b80a5210050c0b2368e" },
   "T33510" : {
 	"T33511" : {
-	  "T33513" : "New Methodology - [title]"
+	  "T33513" : {
+		  "en": "New Methodology - [title]",
+		  "zh": "新建方法 - [标题]",
+		  "zh_TW": "新建方法 - [標題]",
+		  "fr": "Nouvelle méthodologie - [Titre]",
+		  "es": "Nueva metodología - [Título]",
+		  "ar": "منهجية جديدة - [العنوان]"
+	  }
 	}
   },
   "T33580" : {

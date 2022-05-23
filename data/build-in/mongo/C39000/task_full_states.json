@@ -2,7 +2,14 @@
 	"_id": {
 		"$oid": "56c71b2991f3ac04f646adf8"
 	},
-	"T10002": "Task Full State Machine",
+	"T10002": {
+		"en": "Task State Machine (Complete)",
+		"zh": "任务状态机（全）",
+		"zh_TW": "任務狀態機（全）",
+		"fr": "Machine d'état des tâches (terminée)",
+		"es": "Máquina de Estado de la tarea (completa)",
+		"ar": "مهمة آلة الوضع المتناهي"
+	},
 	"T39004": [
 		{
 			"id": 221,

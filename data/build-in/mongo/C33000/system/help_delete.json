@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "Delete Help - [title]",
+			"T33513": {
+				"en": "Delete Help - [title]",
+				"zh": "删除帮助 - [标题]",
+				"zh_TW": "删除幫助 - [標題]",
+				"fr": "Supprimer l'aide - [Titre]",
+				"es": "Eliminar ayuda - [Título]",
+				"ar": "حذف مساعدة - [العنوان]"
+			},
 			"T33512": null
 		}
 	},

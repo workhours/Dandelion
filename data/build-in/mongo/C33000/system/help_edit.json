@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "Edit Help - [title]",
+			"T33513": {
+				"en": "Edit Help - [title]",
+				"zh": "编辑帮助 - [标题]",
+				"zh_TW": "編輯幫助 - [標題]",
+				"fr": "Aide à l'édition - [Titre]",
+				"es": "Ayuda de edición - [Título]",
+				"ar": "تحرير مساعدة - [العنوان]"
+			},
 			"T33512": null
 		}
 	},

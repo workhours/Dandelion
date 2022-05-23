@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "New Type",
+			"T33513": {
+				"en": "New Type",
+				"zh": "新建类型",
+				"zh_TW": "新建類型",
+				"fr": "Nouveau type",
+				"es": "Nuevo tipo",
+				"ar": "نوع جديد"
+			},
 			"T33512": null
 		}
 	},

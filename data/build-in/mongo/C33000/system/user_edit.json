@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "Edit User",
+			"T33513": {
+				"en": "Edit User",
+				"zh": "编辑用户",
+				"zh_TW": "編輯使用者",
+				"fr": "Modifier l'utilisateur",
+				"es": "Editar usuario",
+				"ar": "تحرير المستخدم"
+			},
 			"T33512": null
 		},
 		"T33531": {

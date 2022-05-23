@@ -1,0 +1,83 @@
+{
+	"_id": {
+		"$oid": "628b22a5614ed4adb405d817"
+	},
+	"T33510": {
+		"T33511": {
+			"T33513": {
+				"en": "New Public Process - [Name]",
+				"zh": "新建公共流程 - [名称]",
+				"zh_TW": "新建公共流程 - [名稱]",
+				"fr": "Nouveaux processus publics - [nom]",
+				"es": "Nuevo proceso común - [Nombre]",
+				"ar": "العملية العامة الجديدة - [الاسم]"
+			}
+		}
+	},
+	"T33580": {
+		"T33600": {
+			"T33601": [
+				{
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "33000"
+							}
+						]
+					},
+					"T33602": {
+						"bindType": 33026,
+						"dataType": 33000,
+						"tools": "5034"
+					}
+				},
+				{
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "51100"
+							}
+						]
+					},
+					"T33602": {
+						"bindType": 33027,
+						"dataType": 51100,
+						"link": {
+							"rid": 0,
+							"level": 1,
+							"type": 33030,
+							"path": "33001.33000"
+						}
+					}
+				},
+				{
+					"T33603": {
+						"items": [
+							{
+								"checked": true,
+								"path": "33513"
+							}
+						]
+					},
+					"T33602": {
+						"bindType": 33028,
+						"dataType": 33513,
+						"link": {
+							"rid": 0,
+							"level": 4,
+							"type": 33030,
+							"path": "33001.33510.33511.33513"
+						}
+					}
+				}
+			]
+		}
+	},
+	"vendor": {
+		"$oid": "000000650000a42400000000"
+	},
+	"activities": [],
+	"hits": 1
+}

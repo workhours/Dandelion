@@ -2,7 +2,14 @@
 	"_id": {
 		"$oid": "56efa5acbca6ac39c9d1717b"
 	},
-	"T10002": "Object General State Machine",
+	"T10002": {
+		"en": "General State Machine (Object type)",
+		"zh": "通用状态机（对象类型）",
+		"zh_TW": "通用狀態機（對象類型）",
+		"fr": "Machine d'état universelle (type d'objet)",
+		"es": "Máquina estatal universal (tipo de objeto)",
+		"ar": "آلة الوضع العام ( نوع الكائن )"
+	},
 	"T39004": [
 		{
 			"id": 502,

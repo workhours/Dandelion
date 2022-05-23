@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "New Process - [Name]",
+			"T33513": {
+				"en": "New Process - [Name]",
+				"zh": "新建流程 - [名称]",
+				"zh_TW": "新建流程 - [名稱]",
+				"fr": "Nouveau processus - [nom]",
+				"es": "Nuevo proceso - [Nombre]",
+				"ar": "عملية جديدة - [الاسم]"
+			},
 			"T33512": null
 		},
 		"T33531": {

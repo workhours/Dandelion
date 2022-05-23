@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "New Plan - [Name]",
+			"T33513": {
+				"en": "New Plan - [Name]",
+				"zh": "新建计划 - [名称]",
+				"zh_TW": "新建計畫 - [名稱]",
+				"fr": "Nouveau plan - [nom]",
+				"es": "Nuevo plan - [Nombre]",
+				"ar": "خطة جديدة - [الاسم]"
+			},
 			"T33512": null
 		}
 	},

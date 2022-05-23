@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "New State Machine - [Name]",
+			"T33513": {
+				"en": "New State Machine - [Name]",
+				"zh": "新建状态机 - [名称]",
+				"zh_TW": "新建狀態機 - [名稱]",
+				"fr": "Nouvelle machine d'état - [nom]",
+				"es": "Nueva máquina estatal - [Nombre]",
+				"ar": "آلة الدولة الجديدة - [الاسم]"
+			},
 			"T33512": null
 		}
 	},

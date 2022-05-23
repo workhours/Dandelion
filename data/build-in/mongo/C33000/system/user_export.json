@@ -4,7 +4,7 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "Export User",
+			"T33513": "Export User To Excel Document",
 			"T33512": null
 		}
 	},
@@ -15,7 +15,7 @@
 					"T33602": {
 						"bindType": 33034,
 						"dataType": 51550,
-						"typeValue": "34045"
+						"typeValue": "34145"
 					},
 					"T33603": {
 						"items": [

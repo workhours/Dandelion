@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "Edit Plan - [Name]",
+			"T33513": {
+				"en": "Edit Plan - [Name]",
+				"zh": "编辑计划 - [名称]",
+				"zh_TW": "編輯計畫 - [名稱]",
+				"fr": "Modifier le calendrier - [nom]",
+				"es": "Editar plan - [Nombre]",
+				"ar": "خطة التحرير - [الاسم]"
+			},
 			"T33512": null
 		}
 	},

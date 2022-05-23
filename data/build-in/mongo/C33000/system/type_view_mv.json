@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "View Types",
+			"T33513": {
+				"en": "View Types in batch",
+				"zh": "批量查看类型",
+				"zh_TW": "批量查看類型",
+				"fr": "Type de vue par lots",
+				"es": "Tipo de vista por lotes",
+				"ar": "دفعة عرض نوع"
+			},
 			"T33512": null
 		}
 	},

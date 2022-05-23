@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "New State Transition",
+			"T33513": {
+				"en": "New State Transition",
+				"zh": "新建状态迁移",
+				"zh_TW": "新建狀態遷移",
+				"fr": "Nouveau changement d'état",
+				"es": "Nueva transición de Estado",
+				"ar": "الدولة الجديدة عملة"
+			},
 			"T33512": null
 		}
 	},

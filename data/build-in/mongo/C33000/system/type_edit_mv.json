@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "Edit Types",
+			"T33513": {
+				"en": "Edit Types in batch",
+				"zh": "批量编辑类型",
+				"zh_TW": "批量編輯類型",
+				"fr": "Type d'édition par lots",
+				"es": "Tipo de edición por lotes",
+				"ar": "دفعة من نوع التحرير"
+			},
 			"T33512": null
 		}
 	},

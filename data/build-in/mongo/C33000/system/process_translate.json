@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "Translate Process",
+			"T33513": {
+				"en": "Translate Process",
+				"zh": "翻译流程",
+				"zh_TW": "翻譯流程",
+				"fr": "Processus de traduction",
+				"es": "Proceso de traducción",
+				"ar": "عملية الترجمة"
+			},
 			"T33512": null
 		}
 	},

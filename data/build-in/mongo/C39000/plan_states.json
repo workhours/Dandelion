@@ -2,7 +2,14 @@
 	"_id": {
 		"$oid": "573d79318fd75e6de6141411"
 	},
-	"T10002": "Plan State Machine",
+	"T10002": {
+		"en": "Plan State Machine",
+		"zh": "计划状态机",
+		"zh_TW": "計畫狀態機",
+		"fr": "Machine d'état du plan",
+		"es": "Máquina de Estado del plan",
+		"ar": "خطة آلة الدولة"
+	},
 	"T39004": [
 		{
 			"id": 501,

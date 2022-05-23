@@ -4,7 +4,14 @@
 	},
 	"T33510": {
 		"T33511": {
-			"T33513": "View Type",
+			"T33513": {
+				"en": "View Type",
+				"zh": "查看类型",
+				"zh_TW": "查看类型類型",
+				"fr": "Type de vue",
+				"es": "Tipo de vista",
+				"ar": "نوع العرض"
+			},
 			"T33512": null
 		}
 	},
@@ -29,7 +36,6 @@
 		}
 	},
 	"activities": [
-		
 	],
 	"hits": 3
 }
