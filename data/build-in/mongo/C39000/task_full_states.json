@@ -3,65 +3,211 @@
 		"$oid": "56c71b2991f3ac04f646adf8"
 	},
 	"T10002": {
-		"en": "Task State Machine (Complete)",
-		"zh": "任务状态机（全）",
-		"zh_TW": "任務狀態機（全）",
-		"fr": "Machine d'état des tâches (terminée)",
-		"es": "Máquina de Estado de la tarea (completa)",
-		"ar": "مهمة آلة الوضع المتناهي"
+		"en": "Task State Machine (Optional)",
+		"zh": "任务状态机（可选）",
+		"zh_TW": "任務狀態機（可選）",
+		"fr": "Machine d'état des tâches (facultatif)",
+		"es": "Máquina de Estado de tarea (opcional)",
+		"ar": "مهمة آلة الدولة ( اختياري )"
 	},
 	"T39004": [
 		{
-			"id": 221,
-			"name": "Abandon"
+			"id": 130,
+			"name": {
+				"en": "Assign",
+				"zh": "指派",
+				"zh_TW": "指派",
+				"fr": "Répartition",
+				"es": "Asignación",
+				"ar": "توزيع"
+			}
 		},
 		{
-			"id": 222,
-			"name": "Abandon"
+			"id": 131,
+			"name": {
+				"en": "Forward",
+				"zh": "转发",
+				"zh_TW": "轉發",
+				"fr": "En avant",
+				"es": "Hacia adelante",
+				"ar": "إلى الأمام"
+			}
+		},
+		{
+			"id": 132,
+			"name": {
+				"en": "Forward",
+				"zh": "转发",
+				"zh_TW": "轉發",
+				"fr": "En avant",
+				"es": "Hacia adelante",
+				"ar": "إلى الأمام"
+			}
 		},
 		{
 			"id": 133,
-			"name": "Accept"
+			"name": {
+				"en": "Accept",
+				"zh": "接受",
+				"zh_TW": "轉發",
+				"fr": "Accepté",
+				"es": "Aceptación",
+				"ar": "قبول"
+			}
 		},
 		{
-			"id": 502,
-			"name": "Activate"
-		},
-		{
-			"id":213,
-			"name": "Agree"
-		},
-		{
-			"id":214,
-			"name": "Agree"
-		},
-		{
-			"id":217,
-			"name": "Approve"
-		},
-		{
-			"id": 218,
-			"name": "Approve"
-		},
-		{
-			"id": 130,
-			"name": "Assign"
+			"id": 135,
+			"name": {
+				"en": "Refuse",
+				"zh": "拒绝",
+				"zh_TW": "拒絕",
+				"fr": "Rejeté",
+				"es": "Rechazar",
+				"ar": "رفض"
+			}
 		},
 		{
 			"id": 136,
-			"name": "Assign"
+			"name": {
+				"en": "Assign",
+				"zh": "指派",
+				"zh_TW": "指派",
+				"fr": "Répartition",
+				"es": "Asignación",
+				"ar": "توزيع"
+			}
+		},
+		{
+			"id": 137,
+			"name": {
+				"en": "Reject",
+				"zh": "退回",
+				"zh_TW": "退回",
+				"fr": "Rejet",
+				"es": "Rechazo",
+				"ar": "رفض"
+			}
+		},
+		{
+			"id": 139,
+			"name": {
+				"en": "Pause",
+				"zh": "暂停",
+				"zh_TW": "暫停",
+				"fr": "Pause",
+				"es": "Pausa",
+				"ar": "وقفة"
+			}
+		},
+		{
+			"id": 140,
+			"name": {
+				"en": "Continue",
+				"zh": "继续",
+				"zh_TW": "持續",
+				"fr": "En cours",
+				"es": "Persistencia",
+				"ar": "استمرار"
+			}
+		},
+		{
+			"id": 141,
+			"name": {
+				"en": "Skip",
+				"zh": "跳过",
+				"zh_TW": "跳過",
+				"fr": "Skip",
+				"es": "Skip",
+				"ar": "تخطي"
+			}
 		},
 		{
 			"id": 143,
-			"name": "Cancel"
+			"name": {
+				"en": "Cancel",
+				"zh": "取消",
+				"zh_TW": "取消",
+				"fr": "Annulation",
+				"es": "Cancelar",
+				"ar": "ألغى"
+			}
 		},
 		{
-			"id":219,
-			"name": "Denny"
+			"id": 144,
+			"name": {
+				"en": "Re-assign",
+				"zh": "重新指派",
+				"zh_TW": "重新分配",
+				"fr": "Réaffectation",
+				"es": "Redistribución",
+				"ar": "إعادة توزيع"
+			}
 		},
 		{
-			"id": 503,
-			"name": "Deprecate"
+			"id": 213,
+			"name": {
+				"en": "Agree",
+				"zh": "同意",
+				"zh_TW": "同意",
+				"fr": "D'accord",
+				"es": "Consentimiento",
+				"ar": "موافقة"
+			}
+		},
+		{
+			"id": 214,
+			"name": {
+				"en": "Agree",
+				"zh": "同意",
+				"zh_TW": "同意",
+				"fr": "D'accord",
+				"es": "Consentimiento",
+				"ar": "موافقة"
+			}
+		},
+		{
+			"id": 215,
+			"name": {
+				"en": "Disagree",
+				"zh": "反对",
+				"zh_TW": "反對",
+				"fr": "Pas d'accord.",
+				"es": "Desacuerdo",
+				"ar": "اختلف"
+			}
+		},
+		{
+			"id": 216,
+			"name": {
+				"en": "Disagree",
+				"zh": "反对",
+				"zh_TW": "反對",
+				"fr": "Pas d'accord.",
+				"es": "Desacuerdo",
+				"ar": "اختلف"
+			}
+		},
+		{
+			"id": 221,
+			"name": {
+				"en": "Abandon",
+				"zh": "放弃",
+				"zh_TW": "放弃",
+				"fr": "Abandonne",
+				"es": "Rendirse",
+				"ar": "استسلم"
+			}
+		},
+		{
+			"id": 222,
+			"name": {
+				"en": "Abandon",
+				"zh": "放弃",
+				"zh_TW": "放弃",
+				"fr": "Abandonne",
+				"es": "Rendirse",
+				"ar": "استسلم"
+			}
 		}
 	]
 }

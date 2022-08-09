@@ -1,18 +1,35 @@
 {
 	"_id": {
-		"$oid": "51e2a7972237a1c98323d347"
+		"$oid": "51e2a7972237a1c98323d348"
 	},
 	"T33510": {
 		"T33511": {
 			"T33513": {
-				"en": "New Task",
-				"zh": "新建任务",
-				"zh_TW": "新建任務",
-				"fr": "Nouvelle tâche",
-				"es": "Nueva tarea",
-				"ar": "مهمة جديدة"
+				"en": "New Task (Full State)",
+				"zh": "新建任务（完全状态）",
+				"zh_TW": "新建任務（完整狀態）",
+				"fr": "Nouvelle tâche (statut complet)",
+				"es": "Nueva tarea (estado completo)",
+				"ar": "مهمة جديدة ( كاملة )"
 			},
 			"T33512": null
+		},
+		"T33531": {
+			"T33534": [
+				{
+					"id": {
+						"$oid": "56c71b2991f3ac04f646adf8"
+					},
+					"name": {
+						"en": "Task State Machine (Optional)",
+						"zh": "任务状态机（可选）",
+						"zh_TW": "任務狀態機（可選）",
+						"fr": "Machine d'état des tâches (facultatif)",
+						"es": "Máquina de Estado de tarea (opcional)",
+						"ar": "مهمة آلة الدولة ( اختياري )"
+					}
+				}
+			]
 		},
 		"T33571": {
 			"T33572": "<p>create new task by:</p><p><ul><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">subject</span></li><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">responsible</span></li><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">informed</span></li><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">description</span><br></li></ul></p>"
@@ -65,25 +82,6 @@
 							"path": "33001",
 							"rid": 0
 						}
-					}
-				}
-			]
-		},
-		"T33600": {
-			"T33601": [
-				{
-					"T33603": {
-						"items": [
-							{
-								"checked": true,
-								"optional": true,
-								"path": "40"
-							}
-						]
-					},
-					"T33602": {
-						"bindType": 33026,
-						"dataType": 40
 					}
 				}
 			]

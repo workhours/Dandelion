@@ -52,7 +52,8 @@
 							"type": 33029,
 							"rid": 0,
 							"path": "33001.33510.33511.33513"
-						}
+						},
+						"func": "Java.join18(args.stream().map(function(v){return v[0]}).collect(Java.list))"
 					},
 					"T33584": {
 						"items": [

@@ -1,21 +1,18 @@
 {
 	"_id": {
-		"$oid": "51e2a7972237a1c98323d347"
+		"$oid": "51e2a7972237a1c98323d349"
 	},
 	"T33510": {
 		"T33511": {
 			"T33513": {
-				"en": "New Task",
-				"zh": "新建任务",
-				"zh_TW": "新建任務",
-				"fr": "Nouvelle tâche",
-				"es": "Nueva tarea",
-				"ar": "مهمة جديدة"
+				"en": "New Report (Simple)",
+				"zh": "新建汇报（简单）",
+				"zh_TW": "新建報告（簡單）",
+				"fr": "Nouveau rapport (simple)",
+				"es": "Nuevo informe (simple)",
+				"ar": "تقرير جديد ( بسيط )"
 			},
 			"T33512": null
-		},
-		"T33571": {
-			"T33572": "<p>create new task by:</p><p><ul><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">subject</span></li><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">responsible</span></li><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">informed</span></li><li><span style=\"font-size: 1em; line-height: 1.231; background-color: initial;\">description</span><br></li></ul></p>"
 		}
 	},
 	"T33580": {
@@ -45,10 +42,6 @@
 								"checked": true,
 								"optional": true,
 								"path": "33536.33531.33510.33001"
-							},
-							{
-								"checked": true,
-								"path": "33571.33510.33001"
 							}
 						]
 					}
@@ -66,22 +59,26 @@
 							"rid": 0
 						}
 					}
-				}
-			]
-		},
-		"T33600": {
-			"T33601": [
+				},
 				{
-					"T33603": {
+					"T33584": {
 						"items": [
 							{
 								"checked": true,
 								"optional": true,
+								"name": {
+									"en": "Reporting Content",
+									"zh": "汇报内容",
+									"zh_TW": "彙報內容",
+									"fr": "Contenu du rapport",
+									"es": "Contenido del informe",
+									"ar": "محتوى التقرير"
+								},
 								"path": "40"
 							}
 						]
 					},
-					"T33602": {
+					"T33583": {
 						"bindType": 33026,
 						"dataType": 40
 					}
@@ -90,6 +87,7 @@
 		}
 	},
 	"activities": [
+
 	],
 	"hits": 308
 }
